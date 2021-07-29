@@ -1,4 +1,7 @@
 # JsfBasicProjectTemplate
 
-Temel jsf proje iskeletidir. 
+Temel bir jsf proje iskeletidir.
+
+Product -> entity
+P
  
